@@ -28,6 +28,10 @@ npm run start
 
 ![Diagrama](./assets/DiagramaUML.png)
 
+## Apresentação
+
+[Clique aqui para acessar a apresentação](https://www.canva.com/design/DAGXmXp9Puw/U0OqboMtPji7tFGMOEfCBQ/edit?utm_content=DAGXmXp9Puw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Autores
 
 - Danilo Formanski
